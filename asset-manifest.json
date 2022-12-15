@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/elcuartetoReact/static/css/main.aa0ab5d7.css",
+    "main.js": "/elcuartetoReact/static/js/main.858be731.js",
+    "static/js/787.049af460.chunk.js": "/elcuartetoReact/static/js/787.049af460.chunk.js",
+    "static/media/imagen.jpg": "/elcuartetoReact/static/media/imagen.f70895b4886b3b97cb3b.jpg",
+    "index.html": "/elcuartetoReact/index.html",
+    "main.aa0ab5d7.css.map": "/elcuartetoReact/static/css/main.aa0ab5d7.css.map",
+    "main.858be731.js.map": "/elcuartetoReact/static/js/main.858be731.js.map",
+    "787.049af460.chunk.js.map": "/elcuartetoReact/static/js/787.049af460.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa0ab5d7.css",
+    "static/js/main.858be731.js"
+  ]
+}
